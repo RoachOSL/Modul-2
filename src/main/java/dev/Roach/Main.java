@@ -27,8 +27,10 @@ public class Main {
 //        Factorial factorial = new Factorial();
 //        System.out.println(factorial.factorialCounter(0));
 
-        Calculator calculator = new Calculator();
-        calculator.start();
+//        Calculator calculator = new Calculator();
+//        calculator.start();
+
+        System.out.println("a");
 
 
 
