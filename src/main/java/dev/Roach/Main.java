@@ -30,9 +30,6 @@ public class Main {
 //        Calculator calculator = new Calculator();
 //        calculator.start();
 
-        System.out.println("a");
-
-
 
     }
 }
